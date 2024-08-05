@@ -1,0 +1,25 @@
+button {
+  color: rgb(0, 0, 0);
+  background-color: rgb(144, 240, 144);
+  padding: 20px 20px;
+  border: none;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.button-text {
+  font-size: 30px;
+  margin-top: 40px;
+  color: green;
+}
+
+.button-box {
+  border: black solid 2px;
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(185, 210, 116);
+}
+
+.render-text{
+  font-size: 30px;
+}
